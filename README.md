@@ -9,17 +9,16 @@ components such as old steppers and computer parts to high-end linear servos.
 
 **Details**
 --------------
-The current version (these files) is 0.07b. It and previous versions can be found in the Downloads folder, zipped for your convenience. 
+EMC 2 Arduino and HAL2Arduino are different attempts at solving the same problem.  EMC 2 Arduino is no longer in development.
+
+The current version of HAL2Arduino is 0.6d.  The previous versions are available as well.
 
 Instructions.txt has a good amount of documentation.
-
-EMC 2 Arduino is known to work with ATMega2560 based Arduinos. 
-32u4 based Arduinos (Leonardo, etc.) can also work, but some communication issues are still being ironed out.
 
 Further information and discussion can be found at http://emc2arduino.wordpress.com/
 
 --------------
-Right now We're just beginning, accepting advice, contributions of code and skill
+Right now we're just beginning, accepting advice, contributions of code and skill
 as well as learning too.
 
 	   Got ideas, tips, suggestions? 
